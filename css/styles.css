@@ -52,6 +52,7 @@ h2 {
     letter-spacing: -0.4px;
 }
 
+
 h3 {
     color: #252c38;
     font-weight: 700;
@@ -104,6 +105,14 @@ h6 {
 .container {
     margin-left: auto;
     margin-right: auto;
+}
+
+#espacio {
+ 
+    margin-bottom: -80px;
+    display: block;
+    max-width:550px;
+    margin-left: 190px;
 }
 
 .btn-solid-reg {
