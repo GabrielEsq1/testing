@@ -107,13 +107,7 @@ h6 {
     margin-right: auto;
 }
 
-#espacio {
- 
-    margin-bottom: -80px;
-    display: block;
-    max-width:550px;
-    margin-left: 190px;
-}
+
 
 .btn-solid-reg {
     display: inline-block;
@@ -997,6 +991,14 @@ a:hover.back-to-top {
     .ex-basic-1 .text-box {
         padding: 1.75rem 2rem 0.875rem 2rem;
     }
+
+    #espacio {
+ 
+        margin-bottom: -80px;
+        display: block;
+        max-width:50px;
+        margin-left: 190px;
+    }
     /* end of extra pages */
 }
 /* end of min-width 768px */
@@ -1008,6 +1010,14 @@ a:hover.back-to-top {
     .btn-solid-lg {
         margin-right: 0.5rem;
         margin-left: 0;
+    }
+
+    #espacio {
+ 
+        margin-bottom: -80px;
+        display: block;
+        max-width:500px;
+        margin-left: 190px;
     }
 
     /* end of general styles */
